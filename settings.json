@@ -1,0 +1,16 @@
+{
+    "name": "PEDLA 1.0",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Proyecto Escape Latam 1.0",
+        "/category/asset_value_tracking/core-token/symbol": "PEDLA1.0",
+        "/category/asset_value_tracking/core-token/decimals": "8",
+        "/category/asset_value_tracking/core-token/supply": "100000"
+    }
+}
